@@ -1,7 +1,7 @@
 # Arkanoid Exercise Project:
-Introduction
-My Project:
-Dependencies:
+# Introduction
+# My Project:
+# Dependencies:
 Installation:
 Introduction
 As part of an OOP course we were given a task to teach us different elements:
