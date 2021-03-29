@@ -26,6 +26,9 @@ $ git clone https://github.com/ilanBitan/Arkanoid.git
 $ make compile
 
 $ make run
+
 another way to run the game:
+
 you can go to "out" folder then to "artifacts" and play ass5submit.jar 
+
 Enjoy! :)
