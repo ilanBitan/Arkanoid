@@ -27,7 +27,7 @@ $ make compile
 
 $ make run
 
-another way to run the game:
+**another way to run the game:**
 
 you can go to "out" folder then to "artifacts" and play ass5submit.jar 
 
