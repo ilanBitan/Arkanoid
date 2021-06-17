@@ -30,5 +30,5 @@ $ make run
 **another way to run the game:**
 
 you can go to "out" folder then to "artifacts" and play ass5submit.jar 
-
+or press [here](https://github.com/ilanBitan/Arkanoid/tree/main/out/artifacts/ass5submit_jar)
 Enjoy! :)
