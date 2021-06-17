@@ -29,5 +29,6 @@ $ make run
 
 **another way to run the game:**
 Press [here](https://github.com/ilanBitan/Arkanoid/tree/main/out/artifacts/ass5submit_jar) to play the game!
+go into ass5sumbit.jar download it and press on the app
 
 Enjoy! :)
